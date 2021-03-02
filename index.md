@@ -29,4 +29,4 @@ Op deze pagina houden we bij welke taken er beschikbaar zijn en waar je die kan 
     </tr>
   {% endfor %}
   </tbody>
-</ul>
+</table>
