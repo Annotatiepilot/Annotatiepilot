@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "De Nationale AI Cursus"
-date: date: 2021-03-02 12:14:00 -0000
+date: 2021-03-02 12:14:00 -0000
 tags:
 ---
 
