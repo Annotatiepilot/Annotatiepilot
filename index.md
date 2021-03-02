@@ -25,7 +25,7 @@ Op deze pagina houden we bij welke taken er beschikbaar zijn en waar je die kan 
   {% for post in site.posts %}
     <tr>
       <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-      <td>{{ post.date }}</td>
+      <td>{{ post.date | date_to_string }}</td>
     </tr>
   {% endfor %}
   </tbody>
