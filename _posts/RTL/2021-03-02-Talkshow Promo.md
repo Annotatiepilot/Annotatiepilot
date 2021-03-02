@@ -1,10 +1,3 @@
----
-layout: post
-title: "Eerste taak!"
-date: 2021-03-02 12:14:00 -0000
-tags:
----
-
 ## Talkshow Promo
 
 Help RTL om promos voor talkshows beter te begrijpen.
