@@ -11,10 +11,6 @@ Niet labelen als:
 - Het gezicht te klein is (eigen inschatting)
 - Minder dan 10/20% van het gezicht zichtbaar is
 
-Als het gezicht gedeeltelijk door een voorwerp bedekt is en daardoor niet zichtbaar, geef dan aan dat het gezicht ‘truncaded’ is.
-
-Als het gezicht gedeeltelijk buiten de randen van het plaatje valt, geef dan aan dat het gezicht ‘occluded’ is.
-
 * * *
 
 [Start Labelen](https://app.labelbox.com/go-label/ckls3djupk0ra0779c5r4t5op)!
