@@ -6,4 +6,12 @@ De classificatie is er op gericht om adverteerders meer inzicht te geven in waar
 
 * * *
 
+### Nieuws
+
+| Datum | Bericht |
+|:------|:--------|
+| 3-3-2021 | De bug in de annotatieinterface waardoor die ineens omlaag scrollde en wit werd is opgelost. Dit had wel tot gevolg dat er 30 labels weggegooid moesten worden. Er kunnen dus video's terugkomen die al gelabelled waren. |
+
+* * *
+
 [Start Labelen](https://app.labelbox.com/go-label/cklo34bn1v5ae0757zfvgqkrd)!
