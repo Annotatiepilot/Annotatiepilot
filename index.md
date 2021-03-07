@@ -30,3 +30,7 @@ Op deze pagina houden we bij welke taken er beschikbaar zijn en waar je die kan 
   {% endfor %}
   </tbody>
 </table>
+
+### Status
+
+![Status](/status/status.svg)
