@@ -8,6 +8,9 @@ Op deze pagina houden we bij welke taken er beschikbaar zijn en waar je die kan 
 
 | Datum | Bericht |
 |:------|:--------|
+| 19-4-2021 | Er is een nieuwe taak! Spraakherkenning voor RTL. |
+| 16-4-2021 | Er is een nieuwe taak voor NPO. Hiervoor hebben jullie ter plaatse instructies gehad. |
+| 16-4-2021 | Er zijn nieuwe RTL XL Fragmenten beschikbaar om te annoteren. |
 | 25-3-2021 | Er is een nieuwe taak! Kies aantrekkelijke plaatjes voor Videoland. |
 | 24-3-2021 | Er zijn nieuwe RTL XL Fragmenten beschikbaar om te annoteren. |
 | 8-3-2021 | Week 2! Er staan hieronder wat eerste cijfers over hoe ver jullie al gekomen zijn. Wat een berg werk al in de eerste dagen. De annotaties zien er prima uit. Let bij de gezichten nog even extra op de instructies. Er staan nu ook wat voorbeelden bij. |
