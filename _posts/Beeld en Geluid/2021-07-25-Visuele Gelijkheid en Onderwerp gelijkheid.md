@@ -1,4 +1,4 @@
-## Visuele Gelijkheid & Onderwerp gelijkheid
+## In Ontwikkeling: Visuele Gelijkheid & Onderwerp gelijkheid
 
 Voor het Nederlands Instituut voor Beeld en Geluid is het waardevol om hergebruik van materiaal te detecteren en visueel vergelijkbaar materiaal aan elkaar te koppelen. Daar kan jij ons mee helpen.
 
