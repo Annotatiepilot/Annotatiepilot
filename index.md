@@ -8,7 +8,6 @@ Op deze pagina houden we bij welke taken er beschikbaar zijn en waar je die kan 
 
 | Datum | Bericht |
 |:------|:--------|
-| 26-7-2021 | Er zijn nieuwe taken voor Beeld en Geluid! Hiervoor hebben jullie ter plaatse instructies gehad.|
 | 26-5-2021 | Er zijn nieuwe RTL XL Fragmenten beschikbaar om te annoteren. Let op! Er staat op Labelbox nu ook een interne taak voor RTL. Hiervoor hebben we (nog) geen annotaties van jullie nodig. |
 | 19-4-2021 | Er is een nieuwe taak! Spraakherkenning voor RTL. |
 | 16-4-2021 | Er is een nieuwe taak voor NPO. Hiervoor hebben jullie ter plaatse instructies gehad. |
